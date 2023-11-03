@@ -5,6 +5,7 @@ This project was developed for the program "Java backend developer"
 
 ## Data Model
     Data model based on this relational model
+![Relational Data Model](/assets/ERD.JPG)
 ## Tech Stack 💻
 
 - [Java](https://www.java.com/es/)
