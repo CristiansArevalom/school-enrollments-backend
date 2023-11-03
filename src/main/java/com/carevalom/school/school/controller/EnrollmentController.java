@@ -29,7 +29,7 @@ import lombok.RequiredArgsConstructor;
 
 @RestController
 @RequiredArgsConstructor
-@RequestMapping("api/enrollment")
+@RequestMapping("/api/enrollments")
 public class EnrollmentController {
     
     private final IEnrollmentService service;

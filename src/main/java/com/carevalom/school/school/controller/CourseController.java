@@ -24,7 +24,7 @@ import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 
 @RestController
-@RequestMapping("/course")
+@RequestMapping("/api/courses")
 @RequiredArgsConstructor
 public class CourseController {
     
